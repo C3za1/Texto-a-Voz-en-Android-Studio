@@ -1,0 +1,2 @@
+rootProject.name='Texto_a_Voz'
+include ':app'
